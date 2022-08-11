@@ -1,0 +1,15 @@
+/Users/pavelpashkov/Desktop/Задача 15/obj/Debug/net6.0/Задача 15.csproj.AssemblyReference.cache
+/Users/pavelpashkov/Desktop/Задача 15/obj/Debug/net6.0/Задача 15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelpashkov/Desktop/Задача 15/obj/Debug/net6.0/Задача 15.AssemblyInfoInputs.cache
+/Users/pavelpashkov/Desktop/Задача 15/obj/Debug/net6.0/Задача 15.AssemblyInfo.cs
+/Users/pavelpashkov/Desktop/Задача 15/obj/Debug/net6.0/Задача 15.csproj.CoreCompileInputs.cache
+/Users/pavelpashkov/Desktop/Задача 15/bin/Debug/net6.0/Задача 15
+/Users/pavelpashkov/Desktop/Задача 15/bin/Debug/net6.0/Задача 15.deps.json
+/Users/pavelpashkov/Desktop/Задача 15/bin/Debug/net6.0/Задача 15.runtimeconfig.json
+/Users/pavelpashkov/Desktop/Задача 15/bin/Debug/net6.0/Задача 15.dll
+/Users/pavelpashkov/Desktop/Задача 15/bin/Debug/net6.0/Задача 15.pdb
+/Users/pavelpashkov/Desktop/Задача 15/obj/Debug/net6.0/Задача 15.dll
+/Users/pavelpashkov/Desktop/Задача 15/obj/Debug/net6.0/refint/Задача 15.dll
+/Users/pavelpashkov/Desktop/Задача 15/obj/Debug/net6.0/Задача 15.pdb
+/Users/pavelpashkov/Desktop/Задача 15/obj/Debug/net6.0/Задача 15.genruntimeconfig.cache
+/Users/pavelpashkov/Desktop/Задача 15/obj/Debug/net6.0/ref/Задача 15.dll
